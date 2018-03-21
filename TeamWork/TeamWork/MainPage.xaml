@@ -10,7 +10,7 @@
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <Button Content="Button" HorizontalAlignment="Left" Margin="243,288,0,0" VerticalAlignment="Top" Height="100" Width="200" FontSize="42"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="0,288,0,0" VerticalAlignment="Top" Height="100" Width="200" FontSize="42"/>
-        
+        <TextBlock FontSize="200">Hello Everyone!</TextBlock>
 
 
     </Grid>
